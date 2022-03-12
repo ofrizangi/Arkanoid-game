@@ -1,6 +1,6 @@
 # Arkanoid game
 
-A fun game developed in Java using OOP, GUI, mathematics calcuations, and various objects.
+A fun game developed in Java using OOP, GUI, mathematics calcuations and various objects.
 
 
 
