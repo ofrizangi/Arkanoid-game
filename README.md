@@ -1,5 +1,6 @@
-# tetrisGame
+# Arkanoid game
 
+A fun game developed in Java using OOP, GUI 
 
 
 
